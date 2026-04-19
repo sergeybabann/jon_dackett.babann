@@ -1,0 +1,14 @@
+<?php
+
+$username = "Анна"
+
+?>
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1>My Profile</h1>
+<p>Name: <?php echo $username; ?> </p>
+</body>
+</html>
+
