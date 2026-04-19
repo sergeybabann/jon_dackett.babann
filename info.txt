@@ -1,9 +1,7 @@
 github url:
 
-https://github.com/sergeybabann/development_of_web_applications_using_php_and_mysql.babann
+https://github.com/sergeybabann/jon_dackett.babann
 
-code_example:
 
-http://www.williamspublishing.com/Books/978-5-9908911-9-7.html
 
 
