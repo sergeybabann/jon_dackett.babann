@@ -5,7 +5,7 @@ $lessonNumber = 2;
 $lessonTitle = 'Управляющие конструкции';
 
 // Навигация
-$prevLesson = '../01_chapter/01_chapter.php';
+$prevLesson = '../section_a/intro/intro_1-4ch.php';
 $nextLesson = '../03_chapter/03_chapter.php';
 
 // Содержимое урока
