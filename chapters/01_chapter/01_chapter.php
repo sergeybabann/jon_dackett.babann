@@ -20,8 +20,15 @@ $lessonContent = '
     </p>
 
     <p>
-    Массивы<br>
+    Массивы (ассоциативные, индексированные)<br>
     <a href="practice/1.1_file.php" target="_blank">🔗 1.1_file.php →</a>
+    <a href="practice/associative-arrays.php" target="_blank">🔗 associative-arrays.php →</a>
+    <a href="practice/indexed-arrays.php" target="_blank">🔗 indexed-arrays.php →</a>
+    </p>
+
+    <p>Обновление массивов<br>
+    <a href="practice/.php" target="_blank">🔗 .php →</a>
+    
     </p>
 ';
 
