@@ -27,8 +27,11 @@ $lessonContent = '
     </p>
 
     <p>Обновление массивов<br>
-    <a href="practice/.php" target="_blank">🔗 .php →</a>
-    
+    <a href="practice/updating-arrays.php" target="_blank">🔗 updating-arrays.php →</a>
+    </p>
+
+    <p>Многомерные массивы<br>
+    <a href="practice/multidimensional-arrays.php" target="_blank">🔗 multidimensional-arrays.php →</a>
     </p>
 ';
 
