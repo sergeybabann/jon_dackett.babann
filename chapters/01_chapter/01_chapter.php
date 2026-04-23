@@ -33,6 +33,24 @@ $lessonContent = '
     <p>Многомерные массивы<br>
     <a href="practice/multidimensional-arrays.php" target="_blank">🔗 multidimensional-arrays.php →</a>
     </p>
+
+    <p>Сокращенная запись команды echo<br>
+    <a href="practice/abbreviated_echo.php" target="_blank">🔗 abbrevated_echo.php →</a>
+    </p>
+
+    <p>Строковые операторы<br>
+    <a href="practice/combining_strings.php" target="_blank">🔗  combining_strings.php →</a>
+    </p>
+
+    <p>Использование операторов сравнения<br>
+    <a href="practice/comparison_operators.php" target="_blank">🔗  comparison_operators.php →</a>
+    </p>
+
+    <p>Логические операторы<br>
+    <a href="practice/logical-operators.php" target="_blank">🔗  logical_operators.php →</a>
+    </p>
+
+
 ';
 
 // Подключаем шаблон урока
