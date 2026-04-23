@@ -1,8 +1,8 @@
 <?php
 // Данные для урока
-$pageTitle = 'Глава 6: Объектно-ориентированная разработка с помощью PHP';
+$pageTitle = 'Глава 6: Получение данных из браузера';
 $lessonNumber = 6;
-$lessonTitle = 'Объектно-ориентированная разработка с помощью PHP';
+$lessonTitle = 'Получение данных из браузера';
 
 // Навигация
 $prevLesson = '../05_chapter/05_chapter.php';
@@ -17,8 +17,8 @@ $lessonContent = '
     </div>
     
     <h2>Практическое  выполнение кода</h2>
-    <a href="02_data-type-practice.php" target="_blank">🔗 Типы данных, циклы, массивы →</a>
-    <a href="02_loops-practice.php" target="_blank">🔗 Циклы →</a>
+    <a href="practice/" target="_blank">🔗  →</a>
+    
 ';
 
 include '../../templates/lesson_template.php';

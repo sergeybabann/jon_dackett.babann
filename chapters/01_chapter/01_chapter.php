@@ -50,6 +50,12 @@ $lessonContent = '
     <a href="practice/logical-operators.php" target="_blank">🔗  logical_operators.php →</a>
     </p>
 
+    <p>Приведение типов<br>
+    <a href="practice/strings.php" target="_blank">🔗  strings.php →</a>
+    </p>
+
+    <h3>Простейшая страница на PHP</h3>
+
 
 ';
 
